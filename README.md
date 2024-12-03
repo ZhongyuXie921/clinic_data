@@ -58,26 +58,26 @@ Save all visualizations in the clinic_data directory
 The project generates several visualizations:
 
 ### Age Distribution
-![Age Distribution](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/age_distribution.png)
+![Age Distribution](./age_distribution.png)
 *Age distribution across different genders*
 
 ### Cancer Type Distribution
-![Cancer Distribution](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/cancer_distribution.png)
+![Cancer Distribution](./cancer_distribution.png)
 *Cancer type distribution across different stages*
 
 ### Survival Analysis
-![Survival vs Tumor](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/survival_vs_tumor.png)
+![Survival vs Tumor](./survival_vs_tumor.png)
 *Relationship between tumor size and survival*
 
-![Survival by Treatment](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/survival_by_treatment.png)
+![Survival by Treatment](./survival_by_treatment.png)
 *Box plot of survival months by treatment type*
 
 ### Survival Curves
-![Survival Curves](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/survival_curves.png)
+![Survival Curves](./survival_curves.png)
 *Kaplan-Meier survival curves by cancer stage*
 
 ### Feature Importance
-![Feature Importance](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/feature_importance.png)
+![Feature Importance](./feature_importance.png)
 *Top 10 most important features in the prediction model*
 
 
