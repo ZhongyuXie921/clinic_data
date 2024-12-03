@@ -23,6 +23,7 @@ clinic_data/
 ├── survival_by_treatment.png
 ├── survival_curves.png
 └── feature_importance.png
+└── readme.md
 
 ## Requirements
 - Python 3.7+
@@ -38,8 +39,8 @@ lifelines
 ## Installation
 1. Clone the repository:
  ```bash
- git clone https://github.com/yourusername/cancer-patient-analysis.git
- cd cancer-patient-analysis
+ git clone https://github.com/ZhongyuXie921/clinic_data.git
+ cd clinic_data
 ```
 2. Run the main script:
 ```   
@@ -93,10 +94,8 @@ Comorbidity information
 
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/cancer-patient-analysis
+Your Name - zongyuxie921@gmail.com
+Project Link: https://github.com/ZhongyuXie921/clinic_data
 
 
