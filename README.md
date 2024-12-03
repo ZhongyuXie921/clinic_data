@@ -53,31 +53,34 @@ Generate survival analysis plots
 Build and evaluate a prediction model
 Save all visualizations in the clinic_data directory
 
+
 ## Visualizations
 The project generates several visualizations:
 
 ### Age Distribution
-![Age Distribution](clinic_data/age_distribution.png)
+![Age Distribution](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/age_distribution.png)
 *Age distribution across different genders*
 
 ### Cancer Type Distribution
-![Cancer Distribution](clinic_data/cancer_distribution.png)
+![Cancer Distribution](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/cancer_distribution.png)
 *Cancer type distribution across different stages*
 
 ### Survival Analysis
-![Survival vs Tumor](clinic_data/survival_vs_tumor.png)
+![Survival vs Tumor](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/survival_vs_tumor.png)
 *Relationship between tumor size and survival*
 
-![Survival by Treatment](clinic_data/survival_by_treatment.png)
+![Survival by Treatment](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/survival_by_treatment.png)
 *Box plot of survival months by treatment type*
 
 ### Survival Curves
-![Survival Curves](clinic_data/survival_curves.png)
+![Survival Curves](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/survival_curves.png)
 *Kaplan-Meier survival curves by cancer stage*
 
 ### Feature Importance
-![Feature Importance](clinic_data/feature_importance.png)
+![Feature Importance](https://raw.githubusercontent.com/ZhongyuXie921/clinic_data/main/clinic_data/feature_importance.png)
 *Top 10 most important features in the prediction model*
+
+
 
 Model Details
 The prediction model uses Random Forest Classification to predict patient survival status based on various features including:
